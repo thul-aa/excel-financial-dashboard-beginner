@@ -1,0 +1,1 @@
+Built an Excel dashboard to analyze monthly sales performance for a fictional retail company. Used Pivot Tables, Pivot Charts, KPI calculations and slicers to identify revenue and profitability trends.
